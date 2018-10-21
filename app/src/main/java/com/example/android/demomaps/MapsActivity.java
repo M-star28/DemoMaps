@@ -62,3 +62,4 @@ EditText location_tf = (EditText) findViewById(R.id.search_Location);
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
     }
 }
+//adjust test
